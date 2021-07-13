@@ -1,6 +1,6 @@
 # EC2 Cost Optimization Using AWS Lambda Function
 
-Using the lambda function with python code, we will be able to shut down the EC2-instances automatically.  The python code that can be executed automatically using the aws cloudwatch rules is provided below. 
+Using the lambda function with python code, we will be able to shut down the EC2-instances automatically.  The python code that can be executed automatically using the aws cloudwatch rules has been provided below. 
 
 ## General Information
 

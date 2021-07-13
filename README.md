@@ -105,7 +105,7 @@ def lambda_handler(event, context):
 ![alt text](https://i.ibb.co/q9X6kHg/cloudwatch5.png)
 #
 #
-## The Cloudwatch rules will execute the python codes added in the Lambda functions and it will stop and start all ec2-instances every day at 12:15 AM GMT and 08:15 AM GMT respectively with the instance tags key: "env" and value: "testing"  
+### The Cloudwatch rules will execute the python codes added in the Lambda functions and it will stop and start all ec2-instances every day at 12:15 AM GMT and 08:15 AM GMT respectively with the instance tags key: "env" and value: "testing"  
 #
 ## Author
 Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!

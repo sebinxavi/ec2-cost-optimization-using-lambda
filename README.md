@@ -115,7 +115,7 @@ def lambda_handler(event, context):
 ##### Check the Cloudwatch rules
 
 <p align="left">
-  <img width="900" height="550" src="![alt text](https://i.ibb.co/q9X6kHg/cloudwatch5.png)">
+  <img width="600" height="250" src="![alt text](https://i.ibb.co/q9X6kHg/cloudwatch5.png)">
 </p>
 
 

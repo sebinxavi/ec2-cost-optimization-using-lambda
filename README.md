@@ -68,7 +68,7 @@ def lambda_handler(event, context):
 ## Steps to be done::
 
 ### 1. Create an IAM role granting EC2 Full access to Lambda
-##### Select the AWS Service - Lambda
+##### Create the IAM role by selecting the AWS Service - Lambda
 #
 ![alt text](https://i.ibb.co/TqQhvWn/role1.png)
 ##### Grant EC2 Full access to Lambda

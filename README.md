@@ -89,28 +89,17 @@ def lambda_handler(event, context):
 ### 3. Create the cloudwatch rules to automatically run the lambda function 
 
 ##### Cloudwatch rule to stop the ec2-instances at 12:15 AM GMT every day
-#
-<p align="left">
-  <img width="900" height="550" src="https://i.ibb.co/wcm3XB9/cloudwatch1.png">
-</p>
+![alt text](https://i.ibb.co/wcm3XB9/cloudwatch1.png)
 
 #
 ![alt text](https://i.ibb.co/2k5tCvP/cloudwatch2.png)
 
 
-<p align="left">
-  <img width="900" height="550" src="https://i.ibb.co/2k5tCvP/cloudwatch2.png">
-</p>
-
 ##### Cloudwatch rule to start the ec2-instances at 08:15 AM GMT every day
 
-<p align="left">
-  <img width="900" height="550" src="https://i.ibb.co/brHSMv9/cloudwatch3.png">
-</p>
-
-<p align="left">
-  <img width="900" height="550" src="https://i.ibb.co/frwHTxJ/cloudwatch4.png">
-</p>
+![alt text](https://i.ibb.co/brHSMv9/cloudwatch3.png)
+#
+![alt text](https://i.ibb.co/frwHTxJ/cloudwatch4.png)
 
 ##### Check the Cloudwatch rules
 ![alt text](https://i.ibb.co/q9X6kHg/cloudwatch5.png)

@@ -16,6 +16,6 @@ def lambda_handler(event, context):
 
   for instance in all_ec2['Reservations'][0]['Instances']:
     
-    print("Stopping Ec2 : {} ".format( instance['InstanceId'] ))
+    print("Starting Ec2 : {} ".format( instance['InstanceId'] ))
    
     ec2.start_instances(InstanceIds=[ instance['InstanceId'] ])
